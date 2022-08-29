@@ -88,5 +88,10 @@ p {
   color: white;
 }
 .navbar {
-  background:#6C63FF !important;
+  background: #6c63ff !important;
+}
+@media (max-width: 500px) {
+  h1 {
+    font-size: 48px;
+  }
 }
